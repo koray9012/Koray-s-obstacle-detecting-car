@@ -27,20 +27,23 @@ Bill of materials:
 
           Item               ⏐ Quantity ⏐ Price (USD) ⏐ link
 
-    Arduino UNO R3           ⏐    1     ⏐   
+    Arduino UNO R3           ⏐    1     ⏐   7.57 USD  ⏐ https://elimex.bg/product/71201-kit-k2014-razvoyna-platka-s-atmega328p-smd-usb-b
 
-    L298N motor driver       ⏐    1     ⏐
+    L298N motor driver       ⏐    1     ⏐             ⏐
 
-    HC-SR04 Sensor           ⏐    2     ⏐
+    HC-SR04 Sensor           ⏐    2     ⏐             ⏐
+            
+    HC-SR04 Sensor           ⏐    2     ⏐             ⏐
 
-    Project DC motors        ⏐    2     ⏐
+    Project DC motors        ⏐    2     ⏐             ⏐
 
-    Jumper cables            ⏐    14    ⏐
+    Jumper cables            ⏐    14    ⏐             ⏐
 
-    9V battery               ⏐    2     ⏐
+    9V battery               ⏐    2     ⏐             ⏐
 
-    Battery clip (jack)      ⏐    1     ⏐
+    Battery clip (jack)      ⏐    1     ⏐             ⏐
 
-    Battery clip (no jack)   ⏐    1     ⏐
+    Battery clip (no jack)   ⏐    1     ⏐             ⏐
 
-    Body of the robot        ⏐    1     ⏐
+    Body of the robot        ⏐    1     ⏐             ⏐
+ 
