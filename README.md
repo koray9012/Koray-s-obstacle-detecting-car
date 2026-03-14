@@ -24,3 +24,23 @@ Wiring:
 ![image alt](https://github.com/user-attachments/assets/81c18ad3-d5b4-4e3d-8700-cb26b50db962)
 
 Bill of materials: 
+
+          Item               ⏐ Quantity ⏐ Price (USD) ⏐ link
+
+    Arduino UNO R3           ⏐    1     ⏐   
+
+    L298N motor driver       ⏐    1     ⏐
+
+    HC-SR04 Sensor           ⏐    2     ⏐
+
+    Project DC motors        ⏐    2     ⏐
+
+    Jumper cables            ⏐    14    ⏐
+
+    9V battery               ⏐    2     ⏐
+
+    Battery clip (jack)      ⏐    1     ⏐
+
+    Battery clip (no jack)   ⏐    1     ⏐
+
+    Body of the robot        ⏐    1     ⏐
