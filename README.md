@@ -27,19 +27,16 @@ Bill of materials:
 
           Item               ⏐ Quantity ⏐ Price (USD) ⏐ link
 
-    Arduino UNO R3           ⏐    1     ⏐   7.57 USD  ⏐ https://elimex.bg/product/71201-kit-k2014-razvoyna-platka-s-atmega328p-smd-usb-b
+Arduino UNO R3           ⏐    1     ⏐   7.57 USD  ⏐ https://elimex.bg/product/71201-kit-k2014-razvoyna-platka-s-atmega328p-smd-usb-b
 
-    L298N motor driver       ⏐    1     ⏐             ⏐
+ L298N motor driver       ⏐    1     ⏐   4.63 USD  ⏐ https://elimex.bg/product/71197-kit-k2010-drayver-za-postoyannotokovi-motori
 
-    HC-SR04 Sensor           ⏐    2     ⏐             ⏐
+  HC-SR04 Sensor           ⏐    2     ⏐   2.28 USD x2 = 4.56 USD  ⏐ https://elimex.bg/product/71196-kit-k2009-hc-sr04-ultrazvukov-priemo-predavatel
             
-    HC-SR04 Sensor           ⏐    2     ⏐             ⏐
+  Project DC motors        ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/79622-kit-k2178-postoyannotokov-motor-za-robo-platforma
 
-    Project DC motors        ⏐    2     ⏐             ⏐
-
-    Jumper cables            ⏐    14    ⏐             ⏐
-
-    9V battery               ⏐    2     ⏐             ⏐
+  Jumper cables            ⏐    14    ⏐             ⏐
+    9V battery               ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/93070-bateriq-6lp3146-varta-energy
 
     Battery clip (jack)      ⏐    1     ⏐             ⏐
 
