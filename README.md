@@ -29,18 +29,19 @@ Bill of materials:
 
 Arduino UNO R3           ⏐    1     ⏐   7.57 USD  ⏐ https://elimex.bg/product/71201-kit-k2014-razvoyna-platka-s-atmega328p-smd-usb-b
 
- L298N motor driver       ⏐    1     ⏐   4.63 USD  ⏐ https://elimex.bg/product/71197-kit-k2010-drayver-za-postoyannotokovi-motori
+L298N motor driver       ⏐    1     ⏐   4.63 USD  ⏐ https://elimex.bg/product/71197-kit-k2010-drayver-za-postoyannotokovi-motori
 
-  HC-SR04 Sensor           ⏐    2     ⏐   2.28 USD x2 = 4.56 USD  ⏐ https://elimex.bg/product/71196-kit-k2009-hc-sr04-ultrazvukov-priemo-predavatel
+HC-SR04 Sensor           ⏐    2     ⏐   2.28 USD x2 = 4.56 USD  ⏐ https://elimex.bg/product/71196-kit-k2009-hc-sr04-ultrazvukov-priemo-predavatel
             
-  Project DC motors        ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/79622-kit-k2178-postoyannotokov-motor-za-robo-platforma
+Project DC motors        ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/79622-kit-k2178-postoyannotokov-motor-za-robo-platforma
 
-  Jumper cables            ⏐    14    ⏐             ⏐
-    9V battery               ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/93070-bateriq-6lp3146-varta-energy
+Jumper cables            ⏐    14    ⏐             ⏐ https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm AND https://elimex.bg/product/74894-komplekt-provodnitsi-40-broya-s-konektori-mazhki-mazhki-20sm
+    
+9V battery               ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/93070-bateriq-6lp3146-varta-energy
 
-    Battery clip (jack)      ⏐    1     ⏐             ⏐
+Battery clip (jack)      ⏐    1     ⏐   0.53 USD  ⏐ https://elimex.bg/product/77718-f172b-battery-clip-9v-to-dc-plug-2-1x5-5mm
 
-    Battery clip (no jack)   ⏐    1     ⏐             ⏐
+Battery clip (no jack)   ⏐    1     ⏐   0.23 USD  ⏐ https://elimex.bg/product/14153-f172a-battery-clip-9v
 
-    Body of the robot        ⏐    1     ⏐             ⏐
+Body of the robot        ⏐    1     ⏐   15.28 USD ⏐ https://elimex.bg/product/74873-kit-k2122-kit01-robo-platforma-s-2-kolela-s-2-dc-motora2-osnovi
  
