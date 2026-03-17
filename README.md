@@ -35,7 +35,7 @@ HC-SR04 Sensor           ⏐    2     ⏐   2.28 USD x2 = 4.56 USD  ⏐ https://
             
 Project DC motors        ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/79622-kit-k2178-postoyannotokov-motor-za-robo-platforma
 
-Jumper cables            ⏐    14    ⏐             ⏐ https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm AND https://elimex.bg/product/74894-komplekt-provodnitsi-40-broya-s-konektori-mazhki-mazhki-20sm
+Jumper cables            ⏐    14    ⏐             ⏐ https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm AND                                                                  https://elimex.bg/product/74894-komplekt-provodnitsi-40-broya-s-konektori-mazhki-mazhki-20sm
     
 9V battery               ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/93070-bateriq-6lp3146-varta-energy
 
