@@ -45,3 +45,4 @@ Battery clip (no jack)   ⏐    1     ⏐   0.23 USD  ⏐ https://elimex.bg/prod
 
 Body of the robot        ⏐    1     ⏐   15.28 USD ⏐ https://elimex.bg/product/74873-kit-k2122-kit01-robo-platforma-s-2-kolela-s-2-dc-motora2-osnovi
  
+![image alt](https://github.com/koray9012/Koray-s-obstacle-detecting-car/blob/4d771624d5622b477b9a44382511bba70546d250/Danger_detecting_car.ino)
