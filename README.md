@@ -33,11 +33,11 @@ L298N motor driver       ⏐    1     ⏐   4.63 USD  ⏐ https://elimex.bg/prod
 
 HC-SR04 Sensor           ⏐    2     ⏐   2.28 USD x2 = 4.56 USD  ⏐ https://elimex.bg/product/71196-kit-k2009-hc-sr04-ultrazvukov-priemo-predavatel
             
-Project DC motors        ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/79622-kit-k2178-postoyannotokov-motor-za-robo-platforma
+Project DC motors        ⏐    2     ⏐   2.28 USD x2 = 4.56 USD  ⏐ https://elimex.bg/product/79622-kit-k2178-postoyannotokov-motor-za-robo-platforma
 
-Jumper cables            ⏐    14    ⏐             ⏐ https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm AND                                                                  https://elimex.bg/product/74894-komplekt-provodnitsi-40-broya-s-konektori-mazhki-mazhki-20sm
+Jumper cables            ⏐    14    ⏐ 2.98 USD + 2.30 USD = 6.28 USD ⏐ https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm AND                                                                  https://elimex.bg/product/74894-komplekt-provodnitsi-40-broya-s-konektori-mazhki-mazhki-20sm
     
-9V battery               ⏐    2     ⏐   2.28 USD  ⏐ https://elimex.bg/product/93070-bateriq-6lp3146-varta-energy
+9V battery               ⏐    2     ⏐   2.28 USD x2 = 4.56 USD ⏐ https://elimex.bg/product/93070-bateriq-6lp3146-varta-energy
 
 Battery clip (jack)      ⏐    1     ⏐   0.53 USD  ⏐ https://elimex.bg/product/77718-f172b-battery-clip-9v-to-dc-plug-2-1x5-5mm
 
