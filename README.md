@@ -25,7 +25,7 @@ Wiring:
 
 code:
 
-![code](https://github.com/koray9012/Koray-s-obstacle-detecting-car/blob/4d771624d5622b477b9a44382511bba70546d250/Danger_detecting_car.ino)
+![click here](https://github.com/koray9012/Koray-s-obstacle-detecting-car/blob/4d771624d5622b477b9a44382511bba70546d250/Danger_detecting_car.ino)
 
 Bill of materials: 
 
