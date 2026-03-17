@@ -48,4 +48,12 @@ Battery clip (jack)      ⏐    1     ⏐   0.53 USD  ⏐ https://elimex.bg/prod
 Battery clip (no jack)   ⏐    1     ⏐   0.23 USD  ⏐ https://elimex.bg/product/14153-f172a-battery-clip-9v
 
 Body of the robot        ⏐    1     ⏐   15.28 USD ⏐ https://elimex.bg/product/74873-kit-k2122-kit01-robo-platforma-s-2-kolela-s-2-dc-motora2-osnovi
+
+Credits:
+
+This project uses:
+
+Kicad
+
+Hack Club Blueprint 🫡
  
