@@ -21,7 +21,7 @@ Before finding about Hackclub i was mesmerised by autonomous cars like Tesla so 
 
 Wiring:
 
-![image alt](https://github.com/user-attachments/assets/81c18ad3-d5b4-4e3d-8700-cb26b50db962)
+![image alt](https://github.com/koray9012/Koray-s-obstacle-detecting-car/blob/e1a7a6642e7fa10a66a43062f658791a9990e250/Wiring.png)
 
 code:
 
