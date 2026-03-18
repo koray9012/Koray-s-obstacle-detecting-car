@@ -13,7 +13,7 @@ Key Features:
 
 How to use: 
 
-To use it you need to put it on a flat surface and get your 2 9V batteries. The first one you will connect to the barrel jack of the arduino with a battery clip and the other one you will connect to the screws 12V and gnd of the L298N driver and then after that it turns on and starts moving. I recomment firstly connecting the driver battery so you have time to put the batteries in the car so they dont fall off and slow down or tangle in the car.
+To use it you need to put it on a flat surface and get your 2 9V batteries. The first one you will connect to the barrel jack of the arduino with a battery clip and the other one you will connect to the screws 12V and gnd of the L298N driver and then after that it turns on and starts moving. I recommend firstly connecting the driver battery so you have time to put the batteries in the car so they dont fall off and slow down or tangle in the car.
 
 Why i made it: 
 
