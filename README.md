@@ -17,7 +17,7 @@ To use it you need to put it on a flat surface and get your 2 9V batteries. The 
 
 Why I made it: 
 
-Before finding about Hackclub i was mesmerised by autonomous cars like Tesla so i started researching on how they look. After i found out about Hackclub and Blueprint i decided that i wanted to try it and learn something new and maybe win a reward so when choosing an idea i found out that i can use ultrasonic sensors to measure distances so i decided to make an autonomous car which measures the distance from the ground where if it reaches over 50cm it will detect a fall and stop.
+Before finding about Hackclub i was mesmerized by autonomous cars like Tesla so i started researching on how they look. After i found out about Hackclub and Blueprint i decided that i wanted to try it and learn something new and maybe win a reward so when choosing an idea i found out that i can use ultrasonic sensors to measure distances so i decided to make an autonomous car which measures the distance from the ground where if it reaches over 50cm it will detect a fall and stop.
 
 Wiring:
 
