@@ -49,7 +49,7 @@ Battery clip (no jack)   ⏐    1     ⏐   0.23 USD  ⏐ https://elimex.bg/prod
 
 Body of the robot        ⏐    1     ⏐   15.28 USD ⏐ https://elimex.bg/product/74873-kit-k2122-kit01-robo-platforma-s-2-kolela-s-2-dc-motora2-osnovi
 
-Very Important: The motors came in wit the body not seperatly bought
+Very Important: The motors came with the body not seperatly bought
 
 Credits:
 
