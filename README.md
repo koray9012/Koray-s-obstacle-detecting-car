@@ -57,5 +57,5 @@ This project uses:
 
 Kicad
 
-Hack Club Blueprint 🫡
+Hack Club Flavortown
  
