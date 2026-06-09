@@ -51,11 +51,13 @@ Body of the robot        ⏐    1     ⏐   15.28 USD ⏐ https://elimex.bg/prod
 
 Very Important: The motors came with the body not seperatly bought
 
+![image alt](https://www.youtube.com/watch?v=L1-OH3SdEEU)
+
 Credits:
 
 This project uses:
 
 Kicad
 
-Hack Club Flavortown
+Hack Club Stasis
  
