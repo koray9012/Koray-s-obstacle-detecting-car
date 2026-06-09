@@ -1,3 +1,5 @@
+
+
                                               Obstacle-Detecting Robot Car
                                                        By Koray
 ![image alt](https://github.com/koray9012/Koray-s-obstacle-detecting-car/blob/a4357bc2f437e83db109d0d0175d221761f2d390/20260106_220205.jpg )                                                                
@@ -51,7 +53,9 @@ Body of the robot        ⏐    1     ⏐   15.28 USD ⏐ https://elimex.bg/prod
 
 Very Important: The motors came with the body not seperatly bought
 
-![image alt](https://www.youtube.com/watch?v=L1-OH3SdEEU)
+Video of the car demo
+
+(https://www.youtube.com/watch?v=L1-OH3SdEEU)
 
 Credits:
 
